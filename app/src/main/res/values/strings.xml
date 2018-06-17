@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="welcome">Bienvenido a Youtube</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo Electrónico</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Entrar o registrarse</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Este correo electrónico es inválido</string>
+    <string name="error_invalid_password">Esta contraseña es muy corta</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="followers">Seguires</string>
+    <string name="dialog_body_message">Nombre de usuario o contraseña incorrecta</string>
+    <string name="dialog_title_message">Autenticación fallida</string>
+    <string name="button_share">Compartir perfil</string>
+    <string name="profile_label_stars">Estrellas</string>
+    <string name="profile_label_videos">Videos</string>
+    <string name="profile_about_text_default">Soy youtuber dominicana, con contenido constante en termas de tecnología</string>
+    <string name="profile_name_default">Sarah Pérez</string>
+</resources>
