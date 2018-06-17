@@ -18,9 +18,10 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="@string/welcome"
+            android:textSize="32dp"
             android:textColor="@color/colorBlack"
         />
-        <ImageView android:src="@drawable/github_logo"
+        <ImageView android:src="@drawable/youtube_logo"
             android:layout_width="wrap_content"
             android:layout_height="72dp"
             android:layout_marginBottom="24dp"
@@ -40,7 +41,7 @@
                 android:textColor="@color/colorBlack"
                 android:textColorHint="@color/colorBlack"
                 android:backgroundTint="@color/colorBlack"
-                android:hint="Email" />
+                android:hint="Correo electrónico" />
         <!--</android.support.design.widget.TextInputLayout>-->
 
         <!-- Password Label -->
@@ -57,7 +58,7 @@
                 android:textColor="@color/colorBlack"
                 android:textColorHint="@color/colorBlack"
                 android:backgroundTint="@color/colorBlack"
-                android:hint="Password"/>
+                android:hint="Contraseña"/>
         <!--</android.support.design.widget.TextInputLayout>-->
 
 
@@ -70,7 +71,7 @@
             android:background="@color/colorButton"
             android:textColor="@color/colorWhite"
             android:padding="12dp"
-            android:text="Login"
+            android:text="Entrar"
             android:onClick="sendMessage"
             />
 
